@@ -1,0 +1,5 @@
+nltk
+newspaper3k
+scikit-learn
+numpy
+lxml_html_clean
